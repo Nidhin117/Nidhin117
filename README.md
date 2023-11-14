@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Relational Databases, Machine Learning, Deep Learning, LLMs, NLP**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/nidhin-pramod-208aa6a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhin-pramod-208aa6a7" height="30" width="40" /></a>
 </p>
@@ -70,12 +70,13 @@ Keras, tensorflow used in Deep Learning projects for building Neural Network, dr
 [Test Case Prioritisation](https://github.com/Nidhin117/Test-Case-Prioritization) <br>
 [Test Data Generation](https://github.com/Nidhin117/Test-Data-generation) <br>
 
+## Big Data Projects
+**Techstack** : Apache Spark, SparkML  <br>
+[Exploratory Data analysis of Customer Order & Fakefriends dataset using Apache PySpark](https://github.com/Nidhin117/PySpark-Customer-Orders-and-Fake-friends-dataset-Analysis) <br>
+
 ## Python Backend projects
 **Techstack** : Django, FastAPI <br>
 [To-Do App](https://github.com/Nidhin117/To-Do-App-Django) <br>
-
-## Big Data Projects
-**Techstack** : Apache Spark, SparkML
 
 
 
