@@ -2,7 +2,6 @@
 <h3 align="center">I am a Software Engineer passionate about all things data - Data Science, Machine Learning, Deep Learning, Data Engineering & Data Analytics</h3>
 
 - 🌱 I’m currently learning **Apache Spark, Langchain**
-
 - 💬 Ask me about **Relational Databases, Machine Learning, Deep Learning, LLMs, NLP**
 
 <h4 align="left">Connect with me:</h4>
