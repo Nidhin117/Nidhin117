@@ -49,11 +49,11 @@
 
 [Code Word Detection By Large Language Models](https://github.com/Nidhin117/Codeword-Detection-by-LLM)<br>
 <b>Tech Stack: Python,Pandas, Hugging Face, OpenAI, VertexAI, FastText </b><br>
-Abstract : Various machine learning and deep learning models have been developed over the years for code word detection, each with its own set of complexities such as the requirement for a large dataset for training, intricate preprocessing steps and substantial hardware resources. <br>
+**Abstract** : Various machine learning and deep learning models have been developed over the years for code word detection, each with its own set of complexities such as the requirement for a large dataset for training, intricate preprocessing steps and substantial hardware resources. <br>
 This paper explores the code word detection capabilities of Large Language Models (LLM) such as GPT-3, and PaLM among several others. Through several experiments, I have proved that Large Language Models can achieve state-of-the-art results at code word detection tasks, without requiring extensive training or fine-tuning of these models. LLMs significantly outperform a baseline model which was trained on the same dataset that was used to test the LLMs.<br>
 
 ## Machine Learning & Deep Learning Projects 
-Techstack : Python, Pandas, Numpy, Sklearn used to implement Column transformer, Pipelines, PCA, Hyperparameter tuning, Ensemble learning, Model training and testing in ML projects. <br>
+**Techstack** : Python, Pandas, Numpy, Sklearn used to implement Column transformer, Pipelines, PCA, Hyperparameter tuning, Ensemble learning, Model training and testing in ML projects. <br>
 Keras, tensorflow used in Deep Learning projects for building Neural Network, dropout layers, regularization, Hyperparameter tuning, weight initialization and early stopping. <br>
 <br>
 [Spotify Song Popularity Prediction](https://github.com/Nidhin117/Spotify-Song-Popularity-prediction) <br>
@@ -64,18 +64,18 @@ Keras, tensorflow used in Deep Learning projects for building Neural Network, dr
 [Bangalore House Price Prediction Website](https://github.com/Nidhin117/House-Price-Prediction) <br>
 <br>
 ## Genetic Algorithm and Search Based Software Engineering Projects
-Techstack : Python, R, Libraries in R such as GA, Quantmod, Gramevol, TTR <br>
+**Techstack** : Python, R, Libraries in R such as GA, Quantmod, Gramevol, TTR <br>
 [Algorithmic Trading using R](https://github.com/Nidhin117/Algorithmic-Trading-Using-R) <br>
 [Portfolio Optimisation using R](https://github.com/Nidhin117/Portfolio-Optimisation) <br>
 [Test Case Prioritisation](https://github.com/Nidhin117/Test-Case-Prioritization) <br>
 [Test Data Generation](https://github.com/Nidhin117/Test-Data-generation) <br>
 
 ## Python Backend projects
-Techstack : Django, FastAPI <br>
+**Techstack** : Django, FastAPI <br>
 [To-Do App](https://github.com/Nidhin117/To-Do-App-Django) <br>
 
 ## Big Data Projects
-Techstack : Apache Spark, SparkML
+**Techstack** : Apache Spark, SparkML
 
 
 
