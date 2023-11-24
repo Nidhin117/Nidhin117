@@ -58,6 +58,8 @@ Keras, tensorflow used in Deep Learning projects for building Neural Network, dr
 [Spotify Song Popularity Prediction](https://github.com/Nidhin117/Spotify-Song-Popularity-prediction) <br>
 [Breast Cancer Survival Prediction](https://github.com/Nidhin117/Breast-Cancer-Survival-prediction) <br>
 [GoodReads book review Ratings Prediction](https://github.com/Nidhin117/GoodReads-Review-Prediction-Deep-Learning) <br>
+[Dogs vs Cats Classifier using CNN, VGG16 & Data Augmentation Techniques](https://github.com/Nidhin117/DogsvsCats-Classifier-using-CNN-and-VGG16) <br>
+[Leaf Disease Classifier using CNN](https://github.com/Nidhin117/Leaf-Disease-Classification-using-CNN) <br>
 [Titanic Survival Prediction](https://github.com/Nidhin117/Titanic-survivial-Prediction) <br>
 [Airline Passenger Satisfaction Prediction](https://github.com/Nidhin117/Airline-passenger-Satisfaction) <br>
 [Bangalore House Price Prediction Website](https://github.com/Nidhin117/House-Price-Prediction) <br>
