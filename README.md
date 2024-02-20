@@ -65,6 +65,12 @@ Keras, tensorflow used in Deep Learning projects for building Neural Network, dr
 [Airline Passenger Satisfaction Prediction](https://github.com/Nidhin117/Airline-passenger-Satisfaction) <br>
 [Bangalore House Price Prediction Website](https://github.com/Nidhin117/House-Price-Prediction) <br>
 <br>
+## LLM based projects using Langchain 
+**Techstack** : Python, Langchain, OpenAI APIs, Hugging Face libraries, TogetherAI APIs, Chroma Vertor DB <br>
+[Retrieval Augmented Generation (RAG) QA over custom files using Google AI](https://github.com/Nidhin117/Langchain_GoogleGenAI_RAG) <br>
+[Retrieval Augmented Generation (RAG) QA over custom files using OpenSource embeddings and LLM](https://github.com/Nidhin117/Langchain_Llama_RAG) <br>
+[Fact Search Assistant using Lanchain Tools & Agents](https://github.com/Nidhin117/Langchain_FactSearch_Agent) <br>
+<br>
 ## Genetic Algorithm and Search Based Software Engineering Projects
 **Techstack** : Python, R, Libraries in R such as GA, Quantmod, Gramevol, TTR <br>
 [Algorithmic Trading using R](https://github.com/Nidhin117/Algorithmic-Trading-Using-R) <br>
